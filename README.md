@@ -9,4 +9,6 @@ Run `node .` to run the project.
 POST a file to `http://localhost:3000/upload`
 
 Use Insomnia to POST a file.
-![Insomnia Setup](https://cloud.upchunk.com/s/oFiyyNTGDnZG7Pd/download)
+
+
+[Video](https://cloud.upchunk.com/s/oFiyyNTGDnZG7Pd/download) of Insomnia setup.
